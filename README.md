@@ -12,7 +12,7 @@
    
 
 
-### Forecasting Singapore Temperature from historical data (1960-2022) - [Read More][(https://github.com/dansitorus/Forecasting-Singapore-Temperature)](https://dansitorus.github.io/Forecasting-Singapore-Temperature/)
+### Forecasting Singapore Temperature from historical data (1960-2022) - [Read More](https://dansitorus.github.io/Forecasting-Singapore-Temperature/)
   - Used Time series plot, Linear Regression and Residual Analysis to showcase trends
   - Compared Models like moving average decomposition, double exponential smoothing, and Arima Model to show the best fit for the dataset tested
   Dynamic Regression Framework
