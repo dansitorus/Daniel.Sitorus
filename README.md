@@ -1,4 +1,4 @@
-### Examining Collision Patterns and Trends for Safety of Autonomous Driving (2022-2024) - [Read More](https://github.com/dansitorus/Examining-Collision-Patterns-and-Trends-for-Safety-of-Autonomous-Driving)
+### Examining Collision Patterns and Trends for Safety of Autonomous Driving (2022-2024) - [Read More](https://dansitorus.github.io/Examining-Collision-Patterns-and-Trends-for-Safety-of-Autonomous-Driving/)
    - Collected and cleaned 338 autonomous vehicle collision reports from the California DMV (2022–2024), preparing the dataset for descriptive analysis and predictive modeling.
    - Performed association rule mining to identify co-occurring conditions leading to minor damage, revealing clear weather and right-side impacts as frequent factors.
    - Developed and evaluated predictive models (Decision Tree, Logistic Regression, Naive Bayes) to classify collision severity; achieved best accuracy of 77.5% with Decision Tree.
