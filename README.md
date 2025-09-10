@@ -1,3 +1,9 @@
+### Examining Collision Patterns and Trends for Safety of Autonomous Driving (2022-2024) - [Read More]()
+   - Collected and cleaned 338 autonomous vehicle collision reports from the California DMV (2022–2024), preparing the dataset for descriptive analysis and predictive modeling.
+   - Performed association rule mining to identify co-occurring conditions leading to minor damage, revealing clear weather and right-side impacts as frequent factors.
+   - Developed and evaluated predictive models (Decision Tree, Logistic Regression, Naive Bayes) to classify collision severity; achieved best accuracy of 77.5% with Decision Tree.
+
+
 ### Analysis of HDB Resale Market Trends (1990-2023) - [Read More](https://dansitorus.github.io/HDB-Analysis/)
    - Conducted an Analysis of historical trends on the Housing & Development Board(HDB). 
    - Created series of graphs like the Singapore map to see disparities in prices at different locations
@@ -19,3 +25,4 @@
  - Visualizing Accumulated Airtime from Zoom Transcripts
  - By presenting the airtime data, this visualization helps illustrate student participation levels, offering educators a clear view of engagement in virtual classroom settings
  - Apps Used: R, SQL, Python
+
